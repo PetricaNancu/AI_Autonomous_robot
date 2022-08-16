@@ -14,6 +14,13 @@ The following repository includes all the files and documents covering the const
 
 
 <br /><br />
+
+## 1. Creating detection model
+<br />
+
+<div style="text-align:center"><img src="./Picture4.png" width="350" /></div>
+<br />
+
 &emsp;This repository will have all the scripts used in creating the detection model, the conversion step to use the Intel Neural Compute Stick and the final result.
 
 
@@ -26,9 +33,6 @@ The following repository includes all the files and documents covering the const
 
 <div style="text-align:center"><img src="./r3.jpeg" width="350" /></div>
 <div style="text-align:center"><img src="./r4.jpeg" width="350" /></div>
-
-
-For the second part of the system I will give the schematics  for 3D printing the model.
 
 <div style="text-align:center"><img src="./Picture1.png" width="700" /></div>
 
