@@ -1,0 +1,7 @@
+limitare_50
+limitare_100
+stop
+interzis_ambele_sensuri
+dreapta
+stanga
+inainte
